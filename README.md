@@ -77,4 +77,12 @@
 
 <img src="https://github.com/Brave-wan/JK-Dev_Community/blob/master/image/view.png" alt="Android Architecture Blueprints"/>
 
+#### 使用注意事项
+
+* 请遵循demo实例开发文档来开发项目<br/>
+* 项目中请使用Glide加载所使用到的图片<br/>
+* 项目中请用RecyclerView来替换ListView和GridView<br/>
+
+
+
 
