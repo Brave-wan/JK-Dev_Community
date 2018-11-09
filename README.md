@@ -76,3 +76,5 @@
 * 在view中使用<br/>
 
 <img src="https://github.com/Brave-wan/JK-Dev_Community/blob/master/image/view.png" alt="Android Architecture Blueprints"/>
+
+
