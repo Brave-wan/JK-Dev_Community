@@ -12,6 +12,8 @@ import java.util.Map;
 
 public class MainPresent extends BasePresenter<IMainView> {
 
+
+
     public void dealData(Map<String, String> map) {
         if (mView != null) {
             mView.showLoading();

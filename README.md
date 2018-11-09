@@ -56,3 +56,23 @@
 * 提前协调好项目组成员的工作计划，减少冲突<br/>
 * 对提交的信息采用明晰的标注（写注释）<br/>
 
+
+#### 项目快速集成指南
+
+* 在主工程下新建项目module,引入BaseLibrary<br/>
+
+* 本项目使用mvp的项目结构,可以参考如下图<br/>
+
+<img src="https://github.com/Brave-wan/BasisLibrary/blob/master/image/mvp.png" alt="Android Architecture Blueprints"/>
+
+* 在activity中使用<br/>
+
+<img src="https://github.com/Brave-wan/BasisLibrary/blob/master/image/activity.png" alt="Android Architecture Blueprints"/>
+
+* 在present中使用<br/>
+
+<img src="https://github.com/Brave-wan/BasisLibrary/blob/master/image/present.png" alt="Android Architecture Blueprints"/>
+
+* 在view中使用<br/>
+
+<img src="https://github.com/Brave-wan/BasisLibrary/blob/master/image/view.png" alt="Android Architecture Blueprints"/>

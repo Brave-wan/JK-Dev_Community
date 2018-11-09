@@ -1,7 +1,6 @@
 package com.jinke.baselibrary.ui;
 
 import android.view.View;
-import android.widget.TextView;
 
 import com.blankj.utilcode.util.ToastUtils;
 import com.jinke.baselibrary.R;
