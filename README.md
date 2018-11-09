@@ -63,16 +63,16 @@
 
 * 本项目使用mvp的项目结构,可以参考如下图<br/>
 
-<img src="https://github.com/Brave-wan/BasisLibrary/blob/master/image/mvp.png" alt="Android Architecture Blueprints"/>
+<img src="https://github.com/Brave-wan/JK-Dev_Community/blob/master/image/mvp.png" alt="Android Architecture Blueprints"/>
 
 * 在activity中使用<br/>
 
-<img src="https://github.com/Brave-wan/BasisLibrary/blob/master/image/activity.png" alt="Android Architecture Blueprints"/>
+<img src="https://github.com/Brave-wan/JK-Dev_Community/blob/master/image/activity.png" alt="Android Architecture Blueprints"/>
 
 * 在present中使用<br/>
 
-<img src="https://github.com/Brave-wan/BasisLibrary/blob/master/image/present.png" alt="Android Architecture Blueprints"/>
+<img src="https://github.com/Brave-wan/JK-JK-Dev_Community/blob/master/image/present.png" alt="Android Architecture Blueprints"/>
 
 * 在view中使用<br/>
 
-<img src="https://github.com/Brave-wan/BasisLibrary/blob/master/image/view.png" alt="Android Architecture Blueprints"/>
+<img src="https://github.com/Brave-wan/JK-Dev_Community/blob/master/image/view.png" alt="Android Architecture Blueprints"/>
